@@ -1,2 +1,1 @@
-# XAI-for-Brain-Tumor-Detection-Using-Graph-Neural-Networks
-Reliable and Explainable AI for Brain Tumor Detection Using Graph Neural Networks
+Brain Tumor Classification using Graph Attention Network v2 (GATv2) with Residual Connections for Stable and Explainable Learning
